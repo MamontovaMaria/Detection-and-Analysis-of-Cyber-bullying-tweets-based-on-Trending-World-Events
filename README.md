@@ -21,5 +21,3 @@ Vaishali Byloor
 #### 11.pythontest1.json - File used for preprocessing and creating training set
 #### 12 twython2.py - Python file used to extract tweets for 1st event
 
-
-
