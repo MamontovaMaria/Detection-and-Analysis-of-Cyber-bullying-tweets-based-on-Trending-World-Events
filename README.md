@@ -4,18 +4,20 @@ Detection and Analysis of Cyber-bullying tweets based on Trending World Events
 By -
 Maria Mamontova
 Vaishali Byloor
-## Files - 
 
-1.Dictionary.xlxs - Dictionary with offensive word list , collective nouns and pronouns
-2.Main.ipynb - Code 
-3.TextMining.pdf - Slide of our project
-4. README.md
-5.TweetCorpusExelMC.xlsx
-6.TweetCorpusExelWholeCorpus3.xls
-7.TweetCorpusExelWholeCorpus4.xls
-8.PythonRefugees.rar - Corpus collected for 1st event
-9.PythonTrump.rar
-10.pythontest1.json 
+## Files - 
+1. CyberbullyingReport_MamontovaByloor.pdf	
+2.Dictionary.xlxs - Dictionary with offensive word list , collective nouns and pronouns \n
+3.Main.ipynb - Code \n
+4.TextMining.pdf - Slide of our project\n
+5. README.md
+6.TweetCorpusExelMC.xlsx
+7.TweetCorpusExelWholeCorpus3.xls
+8.TweetCorpusExelWholeCorpus4.xls
+9.PythonRefugees.rar - Corpus collected for 1st event
+10.PythonTrump.rar
+11.pythontest1.json 
+12 twython2.py - Python file used to extract tweets for 1st event
 
 
 
